@@ -1,0 +1,3 @@
+add_lunch_combo lineage_A37f-user
+add_lunch_combo lineage_A37f-userdebug
+add_lunch_combo lineage_A37f-eng
